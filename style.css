@@ -1,0 +1,87 @@
+body {
+    font-family: 'Segoe UI', 'Cambria';
+    font-size: 12px;
+    max-width: 960px;
+    margin: auto;
+    background-color: rgb(30, 30, 30);
+}
+h1 {
+    font-size: 3em;
+    letter-spacing: .4em;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+h2 {
+    font-size: 1.5em;
+    padding-bottom: .2em;
+}
+
+h3 {
+    font-size: 1em;
+    padding-bottom: .3em;
+}
+
+main { 
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin-top: 3em;
+}
+header {
+    text-align: center;
+    margin: auto 2em;
+    background-color: darkgray;
+    border: 1px solid lightskyblue;
+}
+
+section {
+    margin: auto 1em 1em 2em;
+    padding-bottom: 1em;
+}
+
+i {
+    margin-right: .5em;
+}
+
+p {
+    margin: .2em auto
+}
+
+hr {
+    border: none;
+    background-color: lightgray;
+    height: 1px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#mainLeft {
+    background-color: darkgray;
+    border: 1px solid lightskyblue;
+    margin: 0 1em 0 1em;
+}
+#mainRight {
+    background-color: darkgray;
+    border: 1px solid lightskyblue;
+}
+#contact {
+    border-bottom: 1px solid black;
+}
+#skills {
+    border-bottom: 1px solid black;
+}
+#about {
+    border-bottom: 1px solid black;
+}
+#experience {
+    border-bottom: 1px solid black;
+}
