@@ -69,15 +69,18 @@ img {
     border: 1px solid lightskyblue;
     margin: 0 1em 0 1em;
 }
-#mainRight {
-    background-color: darkgray;
-    border: 1px solid lightskyblue;
-}
 #contact {
     border-bottom: 1px solid black;
 }
 #skills {
     border-bottom: 1px solid black;
+}
+#education {
+    border-bottom: 1px solid black;
+}
+#mainRight {
+    background-color: darkgray;
+    border: 1px solid lightskyblue;
 }
 #about {
     border-bottom: 1px solid black;
